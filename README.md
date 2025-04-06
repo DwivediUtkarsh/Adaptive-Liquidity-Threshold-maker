@@ -68,6 +68,7 @@ To evaluate the performance of ALT Maker effectively, consider tracking these me
 4. **Liquidity Score Correlation**: Analyze the relationship between chosen liquidity tiers and profitability, validating the effectiveness of adaptive logic.
 
 ---
+Video showing the execution of the strategy on HUmmingbot - " https://youtu.be/b3gsfcYSuv4 "
 
 ## Conclusion
 The **Adaptive Liquidity Threshold Maker** strategy represents an innovative approach to market-making by intelligently adapting to real-time liquidity. Its dual emphasis on liquidity-driven spread adjustments and dynamic inventory management positions it well to profit from diverse market conditions. This provides a sophisticated tool for traders aiming to leverage market volatility and depth efficiently.
